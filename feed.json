@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Gaming+",
+    "description": "",
+    "home_page_url": "https://gamingplusla.github.io",
+    "feed_url": "https://gamingplusla.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://gamingplusla.github.io/media/website/g_log_pub.png",
+    "author": {
+        "name": "Gaming+"
+    },
+    "items": [
+    ]
+}
