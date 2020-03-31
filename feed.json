@@ -10,20 +10,5 @@
         "name": "Gaming+"
     },
     "items": [
-        {
-            "id": "https://gamingplusla.github.io/the-best-smartphones-you-should-buy-right-now/",
-            "url": "https://gamingplusla.github.io/the-best-smartphones-you-should-buy-right-now/",
-            "title": "The Best Smartphones You Should Buy Right Now",
-            "summary": " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Auctor urna nunc id cursus. Consequat nisl vel pretium lectus quam id leo. Nisi lacus sed viverra tellus. Odio tempor orci dapibus ultrices in. Justo&hellip;",
-            "image": "https://gamingplusla.github.io/media/posts/1/1920x1280.jpg",
-            "author": {
-                "name": "Gaming+"
-            },
-            "tags": [
-                   "prueba"
-            ],
-            "date_published": "2020-03-30T18:14:57-06:00",
-            "date_modified": "2020-03-30T18:14:57-06:00"
-        }
     ]
 }

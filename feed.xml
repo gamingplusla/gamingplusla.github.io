@@ -3,28 +3,10 @@
     <title>Gaming+</title>
     <link href="https://gamingplusla.github.io/feed.xml" rel="self" />
     <link href="https://gamingplusla.github.io" />
-    <updated>2020-03-30T18:15:11-06:00</updated>
+    <updated>1969-12-31T18:00:00-06:00</updated>
     <author>
         <name>Gaming+</name>
     </author>
     <id>https://gamingplusla.github.io</id>
 
-    <entry>
-        <title>The Best Smartphones You Should Buy Right Now</title>
-        <author>
-            <name>Gaming+</name>
-        </author>
-        <link href="https://gamingplusla.github.io/the-best-smartphones-you-should-buy-right-now/"/>
-        <id>https://gamingplusla.github.io/the-best-smartphones-you-should-buy-right-now/</id>
-            <category term="prueba"/>
-
-        <updated>2020-03-30T18:14:57-06:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://gamingplusla.github.io/media/posts/1/1920x1280.jpg" alt="The Best Smartphones You Should Buy Right Now" />
-                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Auctor urna nunc id cursus. Consequat nisl vel pretium lectus quam id leo. Nisi lacus sed viverra tellus. Odio tempor orci dapibus ultrices in. Justo&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
 </feed>
