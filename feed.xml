@@ -3,10 +3,31 @@
     <title>Gaming+</title>
     <link href="https://gamingplusla.github.io/feed.xml" rel="self" />
     <link href="https://gamingplusla.github.io" />
-    <updated>1969-12-31T18:00:00-06:00</updated>
+    <updated>2020-03-31T15:12:32-06:00</updated>
     <author>
         <name>Gaming+</name>
     </author>
     <id>https://gamingplusla.github.io</id>
 
+    <entry>
+        <title>Remasterización de Call of Duty: Modern Warfare 2 llega en exclusiva a PS4</title>
+        <author>
+            <name>Gaming+</name>
+        </author>
+        <link href="https://gamingplusla.github.io/remasterizacion-de-call-of-duty-modern-warfare-2-llega-en-exclusiva-a-ps4/"/>
+        <id>https://gamingplusla.github.io/remasterizacion-de-call-of-duty-modern-warfare-2-llega-en-exclusiva-a-ps4/</id>
+            <category term="noticias"/>
+            <category term="PS4"/>
+            <category term="Call of Duty: Modern Warfare 2"/>
+            <category term="Call of Duty: Modern Warfare"/>
+
+        <updated>2020-03-31T15:12:15-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://gamingplusla.github.io/media/posts/2/Call_of_Duty_Modern_Warfare_2.png" alt="Captura de Call of Duty: Modern Warfare 2" />
+                    Después de los exitosos lanzamientos de Call of Duty: Warzone y la remasterización de Call of Duty: Modern Warfare, era de esperarse que Infinity Ward (división de Activision Blizzard) decidiera regresar las entregas anteriores. En esta ocasión el seleccionado fue Call of Duty: Modern Warfare 2, cuya campaña principal ha sido llevada a&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
 </feed>

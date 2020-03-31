@@ -10,5 +10,23 @@
         "name": "Gaming+"
     },
     "items": [
+        {
+            "id": "https://gamingplusla.github.io/remasterizacion-de-call-of-duty-modern-warfare-2-llega-en-exclusiva-a-ps4/",
+            "url": "https://gamingplusla.github.io/remasterizacion-de-call-of-duty-modern-warfare-2-llega-en-exclusiva-a-ps4/",
+            "title": "Remasterización de Call of Duty: Modern Warfare 2 llega en exclusiva a PS4",
+            "summary": "Después de los exitosos lanzamientos de Call of Duty: Warzone y la remasterización de Call of Duty: Modern Warfare, era de esperarse que Infinity Ward (división de Activision Blizzard) decidiera regresar las entregas anteriores. En esta ocasión el seleccionado fue Call of Duty: Modern Warfare 2, cuya campaña principal ha sido llevada a&hellip;",
+            "image": "https://gamingplusla.github.io/media/posts/2/Call_of_Duty_Modern_Warfare_2.png",
+            "author": {
+                "name": "Gaming+"
+            },
+            "tags": [
+                   "noticias",
+                   "PS4",
+                   "Call of Duty: Modern Warfare 2",
+                   "Call of Duty: Modern Warfare"
+            ],
+            "date_published": "2020-03-31T15:12:15-06:00",
+            "date_modified": "2020-03-31T15:12:15-06:00"
+        }
     ]
 }
