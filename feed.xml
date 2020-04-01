@@ -3,12 +3,32 @@
     <title>Gaming+</title>
     <link href="https://gamingplusla.github.io/feed.xml" rel="self" />
     <link href="https://gamingplusla.github.io" />
-    <updated>2020-03-31T16:14:00-06:00</updated>
+    <updated>2020-04-01T11:57:05-06:00</updated>
     <author>
         <name>Gaming+</name>
     </author>
     <id>https://gamingplusla.github.io</id>
 
+    <entry>
+        <title>Uncharted 4 y Dirt Rally 2.0 llegan en abril a PlayStation Plus</title>
+        <author>
+            <name>Gaming+</name>
+        </author>
+        <link href="https://gamingplusla.github.io/uncharted-4-y-dirt-rally-20-llegan-en-abril-a-playstation-plus/"/>
+        <id>https://gamingplusla.github.io/uncharted-4-y-dirt-rally-20-llegan-en-abril-a-playstation-plus/</id>
+            <category term="noticias"/>
+            <category term="PlayStation Plus"/>
+            <category term="PS4"/>
+
+        <updated>2020-04-01T11:56:26-06:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://gamingplusla.github.io/media/posts/4/PS_Plus_abril_2020.png" alt="" />
+                    Siguiendo a Microsoft con el anuncio de los juegos disponibles durante abril en el programa Games with Gold, Sony ha compartido cuáles juegos estarán disponibles totalmente gratis para los usuarios con una suscripción de PlayStation Plus. Según un video publicado en YouTube, los seleccionados para este mes son DiRT Rally 2.0 (Codemasters) y Uncharted&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Conoce los juegos que llegarán en abril a Games with Gold</title>
         <author>
@@ -20,7 +40,7 @@
             <category term="Xbox One"/>
             <category term="Games with Gold"/>
 
-        <updated>2020-03-31T16:13:44-06:00</updated>
+        <updated>2020-04-01T11:56:46-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://gamingplusla.github.io/media/posts/3/Games_with_Gold_abril_2020.png" alt="" />

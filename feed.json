@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://gamingplusla.github.io/uncharted-4-y-dirt-rally-20-llegan-en-abril-a-playstation-plus/",
+            "url": "https://gamingplusla.github.io/uncharted-4-y-dirt-rally-20-llegan-en-abril-a-playstation-plus/",
+            "title": "Uncharted 4 y Dirt Rally 2.0 llegan en abril a PlayStation Plus",
+            "summary": "Siguiendo a Microsoft con el anuncio de los juegos disponibles durante abril en el programa Games with Gold, Sony ha compartido cuáles juegos estarán disponibles totalmente gratis para los usuarios con una suscripción de PlayStation Plus. Según un video publicado en YouTube, los seleccionados para este mes son DiRT Rally 2.0 (Codemasters) y Uncharted&hellip;",
+            "image": "https://gamingplusla.github.io/media/posts/4/PS_Plus_abril_2020.png",
+            "author": {
+                "name": "Gaming+"
+            },
+            "tags": [
+                   "noticias",
+                   "PlayStation Plus",
+                   "PS4"
+            ],
+            "date_published": "2020-04-01T11:56:26-06:00",
+            "date_modified": "2020-04-01T11:56:26-06:00"
+        },
+        {
             "id": "https://gamingplusla.github.io/conoce-los-juegos-que-llegaran-en-abril-a-games-with-gold/",
             "url": "https://gamingplusla.github.io/conoce-los-juegos-que-llegaran-en-abril-a-games-with-gold/",
             "title": "Conoce los juegos que llegarán en abril a Games with Gold",
@@ -25,7 +42,7 @@
                    "Games with Gold"
             ],
             "date_published": "2020-03-31T16:13:44-06:00",
-            "date_modified": "2020-03-31T16:13:44-06:00"
+            "date_modified": "2020-04-01T11:56:46-06:00"
         },
         {
             "id": "https://gamingplusla.github.io/remasterizacion-de-call-of-duty-modern-warfare-2-llega-en-exclusiva-a-ps4/",
