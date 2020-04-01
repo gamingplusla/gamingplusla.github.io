@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://gamingplusla.github.io/flipnote-studio-no-llegara-a-nintendo-switch/",
+            "url": "https://gamingplusla.github.io/flipnote-studio-no-llegara-a-nintendo-switch/",
+            "title": "Flipnote Studio no llegará a Nintendo Switch",
+            "summary": "Durante los últimos días comenzó a circular en las redes sociales un rumor sobre la posible llegada de Flipnote Studio (aplicación de 3DS y DSi para crear animaciones cortas) a Nintendo Switch, pero resultó ser una broma. Según afirmó James (autor de la broma) mediante una publicación en Twitter, él logro&hellip;",
+            "image": "https://gamingplusla.github.io/media/posts/5/Flipnote_Studio_Nintendo_Switch.png",
+            "author": {
+                "name": "Gaming+"
+            },
+            "tags": [
+                   "Nintendo Switch",
+                   "Flipnote Studio"
+            ],
+            "date_published": "2020-04-01T14:31:33-06:00",
+            "date_modified": "2020-04-01T14:31:33-06:00"
+        },
+        {
             "id": "https://gamingplusla.github.io/uncharted-4-y-dirt-rally-20-llegan-en-abril-a-playstation-plus/",
             "url": "https://gamingplusla.github.io/uncharted-4-y-dirt-rally-20-llegan-en-abril-a-playstation-plus/",
             "title": "Uncharted 4 y Dirt Rally 2.0 llegan en abril a PlayStation Plus",
